@@ -1,0 +1,5 @@
+type: static
+name: sql-reference-guide
+env: static
+buildCommand: ""
+staticPublishPath: .
